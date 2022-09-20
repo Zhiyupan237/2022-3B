@@ -43,3 +43,6 @@ big
 🐷PIG & 🐟FISH 
 
 ![Snoopy](Snoopy.jpg "史努比")
+
+-[] To do list
+-[] Weekend
