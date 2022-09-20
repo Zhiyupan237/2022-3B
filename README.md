@@ -9,20 +9,20 @@ this is a block needed to be noticed `small`
 big
 ```
 
->1st
->>1.1
+>高雄市
+>>鳳山區
 
->>1.2
+>>大寮區
 
->2nd
->>2.1
+>台南市
+>>中西區
 
->>2.2
+>>仁德區
 
->3rd
->>3.1
+>嘉義市
+>>東區
 
->>3.2
+>>西區
 
 *1st
 
@@ -30,11 +30,11 @@ big
 
 *3rd
 
-1.red
+1.red 🔴
 
-2.yellow
+2.yellow 🟡
 
-3.blue
+3.blue 🔵
 
 ---
 
@@ -44,5 +44,6 @@ big
 
 ![Snoopy](Snoopy.jpg "史努比")
 
--[] To do list
--[] Weekend
+- [X] To do list
+- [ ] 2nd
+- [ ] 3rd
