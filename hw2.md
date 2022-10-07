@@ -1,5 +1,3 @@
-# PERT/CPM 圖
-
 # 甘特圖
 ```mermaid
 gantt
@@ -29,4 +27,8 @@ gantt
     使用者測試         :a11, after a9  , 25d
 ```
 
+# PERT/CPM 圖
+![PERT/CPM 圖](PERT_Diagram.jpg "PERT/CPM 圖")
+
 # 關鍵路徑
+關鍵路徑：1 -> 2 -> 4 -> 6 -> 9 -> 11
