@@ -32,3 +32,15 @@ class CTriangle extends CShape{
    
 }
 ```
+
+## app11.java
+
+```java
+public class app11 {
+   public static void main(String[] args) {
+    CTriangle ct = new CTriangle(3, 4, 5);
+    ct.setColor("red");
+    ct.show();
+}
+}
+```
